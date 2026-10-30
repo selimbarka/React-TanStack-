@@ -1,0 +1,30 @@
+{
+  "cards": [
+    { "id": "1", "name": "Dracaufeu", "set": "Set de Base", "rarity": "ultra-rare", "price": 48.9, "quantity": 1 },
+    { "id": "2", "name": "Tortank", "set": "Set de Base", "rarity": "rare", "price": 12.5, "quantity": 2 },
+    { "id": "3", "name": "Pikachu", "set": "Set de Base", "rarity": "commune", "price": 0.3, "quantity": 4 },
+    { "id": "4", "name": "Ronflex", "set": "Jungle", "rarity": "ultra-rare", "price": 35, "quantity": 1 },
+    { "id": "5", "name": "Pyroli", "set": "Jungle", "rarity": "rare", "price": 18.75, "quantity": 1 },
+    { "id": "6", "name": "Persian", "set": "Jungle", "rarity": "peu-commune", "price": 1.2, "quantity": 3 },
+    { "id": "7", "name": "Ptéra", "set": "Fossile", "rarity": "rare", "price": 9.9, "quantity": 0 },
+    { "id": "8", "name": "Amonistar", "set": "Fossile", "rarity": "peu-commune", "price": 0.8, "quantity": 2 },
+    { "id": "9", "name": "Électhor", "set": "Fossile", "rarity": "ultra-rare", "price": 52, "quantity": 1 },
+    { "id": "10", "name": "Rattata", "set": "Set de Base", "rarity": "commune", "price": 0.15, "quantity": 6 },
+    { "id": "11", "name": "Aquali", "set": "Jungle", "rarity": "rare", "price": 7.4, "quantity": 2 },
+    { "id": "12", "name": "Tentacool", "set": "Fossile", "rarity": "commune", "price": 0.25, "quantity": 3 },
+    { "id": "13", "name": "Florizarre", "set": "Set de Base", "rarity": "rare", "price": 22.5, "quantity": 1 },
+    { "id": "14", "name": "Mewtwo", "set": "Set de Base", "rarity": "ultra-rare", "price": 39.9, "quantity": 1 },
+    { "id": "15", "name": "Alakazam", "set": "Set de Base", "rarity": "rare", "price": 14, "quantity": 1 },
+    { "id": "16", "name": "Magicarpe", "set": "Set de Base", "rarity": "commune", "price": 0.2, "quantity": 5 },
+    { "id": "17", "name": "Salamèche", "set": "Set de Base", "rarity": "commune", "price": 0.6, "quantity": 3 },
+    { "id": "18", "name": "Nidoking", "set": "Set de Base", "rarity": "rare", "price": 11.2, "quantity": 1 },
+    { "id": "19", "name": "Kangourex", "set": "Jungle", "rarity": "rare", "price": 8.5, "quantity": 2 },
+    { "id": "20", "name": "Insécateur", "set": "Jungle", "rarity": "rare", "price": 9.3, "quantity": 1 },
+    { "id": "21", "name": "Noadkoko", "set": "Jungle", "rarity": "peu-commune", "price": 1.1, "quantity": 2 },
+    { "id": "22", "name": "Kabutops", "set": "Fossile", "rarity": "rare", "price": 10.5, "quantity": 1 },
+    { "id": "23", "name": "Lokhlass", "set": "Fossile", "rarity": "rare", "price": 13.8, "quantity": 0 },
+    { "id": "24", "name": "Smogogo", "set": "Fossile", "rarity": "peu-commune", "price": 0.9, "quantity": 2 }
+  ],
+  "favorites": [],
+  "notes": []
+}
